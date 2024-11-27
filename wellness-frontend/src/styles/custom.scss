@@ -1,0 +1,41 @@
+// Custom styles
+body {
+  background-color: #f8f9fa;
+}
+
+// Form styles
+.form-container {
+  max-width: 400px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+// Dashboard styles
+.dashboard-container {
+  padding: 2rem 0;
+}
+
+// Card styles
+.card {
+  margin-bottom: 1rem;
+  border: none;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+  background-color: #f8f9fa;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+// Table styles
+.table {
+  background-color: white;
+}
+
+// Alert styles
+.alert {
+  margin-bottom: 1rem;
+}
